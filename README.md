@@ -14,7 +14,7 @@ A WPF desktop application that lets users upload a PDF and chat with its content
 
 ⚡ Async processing for a responsive UI
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 .NET / WPF
 
@@ -24,7 +24,7 @@ PdfPig (PDF text extraction)
 
 C# async/await
 
-🧠 How It Works
+## 🧠 How It Works
 
 Upload PDF
 
@@ -50,17 +50,17 @@ Response is added to the chat window.
 
 Conversation history is preserved for continuity.
 
-🔑 API Key Setup
+## 🔑 API Key Setup
 
 Replace the API key in MainWindow.xaml.cs:
 
 string apikey = "Your_API_KEY";
 
 
-⚠️ Do not hardcode API keys in production.
+## ⚠️ Do not hardcode API keys in production.
 Use environment variables or secure configuration.
 
-🚧 Limitations
+## 🚧 Limitations
 
 No OCR support (scanned/image PDFs won’t work)
 
@@ -70,7 +70,7 @@ API key stored in code (demo only)
 
 Chat history is session-based (not saved)
 
-🚀 Possible Improvements
+## 🚀 Possible Improvements
 
 Add OCR for scanned PDFs
 
