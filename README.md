@@ -1,8 +1,8 @@
-#PDF Chat Assistant (WPF + Gemini AI)
+# PDF Chat Assistant (WPF + Gemini AI)
 
 A WPF desktop application that lets users upload a PDF and chat with its contents using Google Gemini AI.
 
-##✨ Features
+## ✨ Features
 
 📂 Upload and process PDF files
 
